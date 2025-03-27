@@ -1,4 +1,4 @@
-![Project Image](https://raw.githubusercontent.com/rapinderjeet/ilearn-mern-products/main/project-image.png)
+![Project Image](https://raw.githubusercontent.com/rapinderjeet/ilearn-zustand-habit/main/project-image.png)
 
 # Habit Tracker
 
