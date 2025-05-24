@@ -1,4 +1,3 @@
-import React from "react";
 import { Habit, useHabitStore } from "../stores/store";
 import {
   Box,
